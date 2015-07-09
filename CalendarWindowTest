@@ -1,0 +1,85 @@
+package rilitext;
+
+import static org.junit.Assert.*;
+
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+public class CalendarWindowTest {
+
+	@BeforeClass
+	public static void setUpBeforeClass() throws Exception {
+	}
+
+	@AfterClass
+	public static void tearDownAfterClass() throws Exception {
+	}
+
+	@Before
+	public void setUp() throws Exception {
+	}
+
+	@Test
+	public void testCalendarWindow() {
+		
+	}
+
+	@Test
+	public void testActionPerformed() {
+		
+	}
+
+	@Test
+	public void testMousePressed() {
+		
+	}
+
+	@Test
+	public void testMouseReleased() {
+		
+	}
+
+	@Test
+	public void testMouseEntered() {
+		
+	}
+
+	@Test
+	public void testMouseExited() {
+		
+	}
+
+	@Test
+	public void testMouseClicked() {
+		
+	}
+
+	@Test
+	public void testFocusGained() {
+		
+	}
+
+	@Test
+	public void testFocusLost() {
+	
+	}
+
+	@Test
+	public void testDoMark() {
+		
+	}
+
+	@Test
+	public void testIsHaveDailyRecord() {
+		
+	}
+
+	@Test
+	public void testMain() {
+		
+	}
+
+}
+
